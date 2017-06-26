@@ -1,0 +1,15 @@
+<div class="container"> 
+
+<h1>
+  {{title}} 
+</h1>
+<div *ngFor='let item of video'>
+<h1><a href='videos/{{item.slug}}'>{{item.name}}</a></h1>
+
+<div  *ngIf='item.embed'>
+ <iframe [src]="getEmbedUrl(item) | safe" width="860" height="515"  frameborder="0" allowfullscreen></iframe>
+
+</div>
+<hr/>
+</div>
+</div>

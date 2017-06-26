@@ -1,0 +1,54 @@
+ [
+    
+              {
+                "name":"Compiler",
+               	"slug":"Compiler",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"Qkwj65l_96I?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS"
+                        }
+                       ]
+
+                },
+                 {
+                "name":"Just Code",
+                "slug":"Just Code",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        }
+                         ]
+
+                },
+                {
+                "name":"Java",
+                "slug":"Java",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        }
+                      ]
+                },
+                 
+                 {
+                "name":"Algorithms",
+                "slug":"Algorithms",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        }
+                      ]
+                }
+]

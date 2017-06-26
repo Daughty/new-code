@@ -1,0 +1,15 @@
+.jumbotron{
+	height:100vh;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	font-family:'Open Sans',sans-serif;
+	font-style:italic;
+	color:white;
+
+}
+.but{
+	background:transparent;
+
+}

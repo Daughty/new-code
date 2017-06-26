@@ -1,0 +1,35 @@
+[
+             {
+               	"name":"Compiler",
+               	"image":"assets/images/rsz_compiler2.jpg",
+                "slug" :"Compiler"
+               },
+                {
+               	"name":"Just Code",
+               	"image":"assets/images/rsz_code.jpg",
+                "slug":"Just Code"
+               },
+                {
+               	"name":"Java",
+               	"image":"assets/images/rsz_java.jpg",
+                "slug" :"Java"
+               },
+               {
+                "name":"Algorithms",
+                "image":"assets/images/rsz_algo2.jpg",
+                "slug":"Algorithms"
+               },
+               {
+                "name":"Javascript",
+                "image":"assets/images/rsz_js.jpg",
+                "slug" :"Javascript"
+                
+               },
+               {
+                "name":"Web Development",
+                "image":"assets/images/rsz_web.jpg",
+                "slug" :"Web Development"
+                
+               }
+
+     ]

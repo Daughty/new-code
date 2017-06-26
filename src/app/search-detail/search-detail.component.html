@@ -1,0 +1,12 @@
+<div class="container">
+<p *ngIf='query'>
+  searched for {{ query }}!
+</p>
+<div *ngFor='let abc of videoList'>
+<h1><a href='videos/{{abc.slug}}'>{{abc.name}}</a></h1>
+<div  *ngIf='abc.embed'>
+<iframe [src]="getEmbedUrl(abc) | safe" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</div>
+<hr/>
+</div>
+</div>
