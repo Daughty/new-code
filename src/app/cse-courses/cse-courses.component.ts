@@ -11,11 +11,14 @@ export class CseCoursesComponent implements OnInit,OnDestroy {
   private req: any;
   title:'Courses';
   courseList:[any];
+ 
   constructor(private _video:VideoService) { }
 
   ngOnInit() {
      this.req = this._video.list1().subscribe(data=>{
      this.courseList = data as [any];
+     
+
      })
   }
    ngOnDestroy(){

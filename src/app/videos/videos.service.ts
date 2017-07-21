@@ -17,7 +17,7 @@ export class VideoService {
 	  		.catch(this.handleError)
   }
   list1(){
-  	return this.http.get(endpoint1)
+  	return this.http.get(endpoint)
 	  		.map(response=>response.json())
 	  		.catch(this.handleError)
   }

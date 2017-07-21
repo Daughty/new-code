@@ -1,4 +1,19 @@
 .navbar{
 	margin-bottom:0px;
+	height:65px;
 }
- 
+
+#footer{
+	background-color: #111111;
+	padding:50px;
+	text-align:center;
+}
+ .nav{
+ 	margin-top:20px;
+ }
+
+ .btn{
+ 	margin-top:10px;
+ 	margin-right: 2px;
+ 	
+ }

@@ -1,0 +1,26 @@
+.jumbotron h1{
+	color:white;
+}
+.jumbotron {
+	background-color: #42494B;
+}
+
+
+
+
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    height:50%;
+    width:50%;
+}

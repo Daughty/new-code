@@ -3,6 +3,8 @@
               {
                 "name":"Compiler",
                	"slug":"Compiler",
+                "image":"assets/images/rsz_compiler2.jpg",
+
                 "videos":[
                         {
 
@@ -14,14 +16,16 @@
 
                 },
                  {
-                "name":"Just Code",
-                "slug":"Just Code",
+                "name":"Angular 4",
+                "slug":"Angular 4",
+                "image":"assets/images/rsz_angular.jpg",
+                "desc":"Angular is a development platform for creating applications using modern web standards. Angular includes a wealth of essential features such as mobile gestures, animations, filtering, routing, data binding, security, internationalization, and beautiful UI components. It's extremely modular, lightweight, and easy to learn.",
                 "videos":[
                         {
 
                         "name" : "video1",
                         "slug":"video-1",
-                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        "embed":"9wc8Gv8X49U?list=PLEsfXFp6DpzQThMU768hTZInWUqfoyTEW"
                         }
                          ]
 
@@ -29,6 +33,7 @@
                 {
                 "name":"Java",
                 "slug":"Java",
+                "image":"assets/images/rsz_java.jpg",
                 "videos":[
                         {
 
@@ -42,6 +47,33 @@
                  {
                 "name":"Algorithms",
                 "slug":"Algorithms",
+                 "image":"assets/images/rsz_algo2.jpg",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        }
+                      ]
+                },
+                 {
+                "name":"Javascript",
+                "slug":"Javascript",
+                 "image":"assets/images/rsz_js.jpg",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        }
+                      ]
+                },
+                 {
+                "name":"Web Development",
+                "slug":"Web Development",
+                 "image":"assets/images/rsz_web.jpg",
                 "videos":[
                         {
 

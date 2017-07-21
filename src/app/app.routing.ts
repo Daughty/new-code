@@ -7,7 +7,8 @@ import { SearchDetailComponent } from './search-detail/search-detail.component';
 import { HomeComponent } from './home/home.component';
 import { VideoListComponent } from'./video-list/video-list.component';
 import { VideoDetailComponent } from'./video-detail/video-detail.component';
-
+import { RegisterComponent } from './register/register.component';
+import { SignInComponent } from './sign-in/sign-in.component';
 
 const appRoutes: Routes = [
    
@@ -34,8 +35,19 @@ const appRoutes: Routes = [
  {
  	path:"Computer/:slug",
  	component:VideoListComponent,
+ },
+ {
+ 	path:"Sign up",
+ 	component:RegisterComponent,
+ },
+ {
+ 	path:"Sign In",
+ 	component:SignInComponent ,
  }
+ 
+ 
 
+ 
 ]
 
 @NgModule({
