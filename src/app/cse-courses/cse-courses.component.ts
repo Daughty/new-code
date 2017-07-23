@@ -1,11 +1,19 @@
-import { Component, OnInit,OnDestroy } from '@angular/core';
+import { Directive, Component, OnInit,OnDestroy } from '@angular/core';
 import { VideoService } from '../videos/videos.service';
+import{ trigger,
+  state,
+  style,
+  animate,
+  transition
+} from '@angular/animations';
+ 
 
 @Component({
   selector: 'app-cse-courses',
   templateUrl: './cse-courses.component.html',
   styleUrls: ['./cse-courses.component.css'],
-  providers:[VideoService]
+  providers:[VideoService],
+
 })
 export class CseCoursesComponent implements OnInit,OnDestroy {
   private req: any;

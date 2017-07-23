@@ -2,15 +2,19 @@
 	height:100vh;
 	text-align: center;
 	margin-bottom:0px;
+	background-size: cover;
 }
 
-.jumbotron h1 {
+.jumbotron h1 ,h3{
 	font-family:'Open Sans',sans-serif;
-	font-style:italic;
-	color:white;
-
+	font-weight:500;
+    margin-top:20px;
 }
 .but{
-	background:transparent;
-
+	background:red;
+    color:white;
+    border-color:red;
+}
+.co{
+	color:black;
 }

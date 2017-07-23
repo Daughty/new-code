@@ -7,3 +7,12 @@
 	display:block;
 	margin :0 auto;
 }
+a:hover{
+	-webkit-transform:scale(1.05,1.05);
+     text-decoration:none;
+     color:black;
+}
+.ca{
+	text-align:center;
+	color:#2F4F4F;
+}

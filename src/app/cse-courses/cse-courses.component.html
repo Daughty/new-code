@@ -7,13 +7,13 @@
 <div class="container  mar"> 
 <div class="row">
  <div *ngFor='let item of courseList'>
-  <div class="col-sm-3" >
-    <a md-card href='Computer/{{item.slug}}'>
-      <img md-card-md-image [src]='item.image'>
-      <div class="caption color">
-        <md-card-title>{{item.name}}</md-card-title>
-       </div>
-    </a>
+ <div class="col-sm-3 mar">
+ <div class="hov">
+    <a md-card class="noun color" md-card href='Computer/{{item.slug}}'>
+    <img [src]='item.image'>
+      <h3 class="center">{{item.name}}</h3>
+      </a>
+      </div>
     </div>
     </div>
   </div>

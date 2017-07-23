@@ -7,11 +7,28 @@
 	font-size:20px;
 	margin-top:0px;
 }
+
+.h2{
+	font-family:'Open Sans',sans-serif;
+}
 .jumbotron{
 	background-color:#42494B;
 	color:white;
 	text-align:center;
 }
 .color{
+	color:#2F4F4F;
+}
+img:hover{
+   -webkit-transform:scale(1.05,1.05);
+   }
+
+a:hover{
+	text-decoration:none;
 	color:black;
+	font-style:bold;
+
+}
+.center{
+	text-align:center!important;
 }
