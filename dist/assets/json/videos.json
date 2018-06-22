@@ -1,0 +1,100 @@
+ [
+    
+              {
+                "name":"Compiler",
+               	"slug":"Compiler",
+                "image":"assets/images/rsz_compiler2.jpg",
+
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"Qkwj65l_96I?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS"
+                        }
+                       ]
+
+                },
+                 {
+                "name":"Angular 4",
+                "slug":"Angular 4",
+                "image":"assets/images/rsz_angular.jpg",
+                "desc":"Angular is a development platform for creating applications using modern web standards. Angular includes a wealth of essential features such as mobile gestures, animations, filtering, routing, data binding, security, internationalization, and beautiful UI components. It's extremely modular, lightweight, and easy to learn.",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"9wc8Gv8X49U?list=PLEsfXFp6DpzQThMU768hTZInWUqfoyTEW"
+                        }
+                         ]
+
+                },
+                {
+                "name":"Java",
+                "slug":"Java",
+                "image":"assets/images/rsz_java.jpg",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"r59xYe3Vyks?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al"
+                        }
+                      ]
+                },
+                 
+                 {
+                "name":"Algorithms",
+                "slug":"Algorithms",
+                 "image":"assets/images/rsz_algo2.jpg",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        }
+                      ]
+                },
+                 {
+                "name":"Javascript",
+                "slug":"Javascript",
+                 "image":"assets/images/rsz_js.jpg",
+                 "desc":"JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites.",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"eyAqrXrG_3s&index=5?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa"
+                        }
+                      ]
+                },
+                 {
+                "name":"Web Development",
+                "slug":"Web Development",
+                 "image":"assets/images/rsz_web.jpg",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        }
+                      ]
+                },
+                 {
+                "name":"Coding",
+                "slug":"Coding",
+                 "image":"assets/images/rsz_coding.jpg",
+                "videos":[
+                        {
+
+                        "name" : "video1",
+                        "slug":"video-1",
+                        "embed":"HtSuA80QTyo?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb"
+                        }
+                      ]
+                }
+]

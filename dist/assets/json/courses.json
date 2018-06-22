@@ -1,0 +1,35 @@
+[
+             {
+               	"name":"Compiler",
+               	"image":"assets/images/rsz_compiler2.jpg",
+                "slug" :"Compiler"
+               },
+                {
+               	"name":"Angular4",
+               	"image":"assets/images/rsz_angular.jpg",
+                "slug":"Angular4"
+               },
+                {
+               	"name":"Java",
+               	"image":"assets/images/rsz_java.jpg",
+                "slug" :"Java"
+               },
+               {
+                "name":"Algorithms",
+                "image":"assets/images/rsz_algo2.jpg",
+                "slug":"Algorithms"
+               },
+               {
+                "name":"Javascript",
+                "image":"assets/images/rsz_js.jpg",
+                "slug" :"Javascript"
+                
+               },
+               {
+                "name":"Web Development",
+                "image":"assets/images/rsz_web.jpg",
+                "slug" :"Web Development"
+                
+               }
+
+     ]
