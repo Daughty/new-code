@@ -2,8 +2,8 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpModule } from'@angular/http';
 import {FormsModule , ReactiveFormsModule} from '@angular/forms';
-import {MdInputModule} from '@angular/material';
-import {MdButtonModule,MdCardModule} from '@angular/material';
+import {MatInputModule} from '@angular/material';
+import {MatButtonModule,MatCardModule} from '@angular/material';
 import{BrowserAnimationsModule} from '@angular/platform-browser/animations'
 
 //third-party imports
@@ -12,7 +12,7 @@ import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { CollapseModule } from 'ngx-bootstrap/collapse';
 import { CarouselModule } from 'ngx-bootstrap/carousel';
 import { CseCoursesComponent } from './cse-courses/cse-courses.component';
-import { YoutubePlayerModule } from 'ng2-youtube-player';
+
 
 import { AppComponent } from './app.component';
 import {AppRoutingModule} from './app.routing';
@@ -45,13 +45,13 @@ import { SignInComponent } from './sign-in/sign-in.component';
     CollapseModule.forRoot(),
     CarouselModule.forRoot(),
     BrowserModule,
-    MdInputModule,
-    MdButtonModule,
-    MdCardModule,
+    MatInputModule,
+    MatButtonModule,
+    MatCardModule,
     AppRoutingModule,
     HttpModule,
     FormsModule,
-    YoutubePlayerModule,
+    
     
     ReactiveFormsModule,
     BrowserAnimationsModule
